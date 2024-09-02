@@ -1,0 +1,26 @@
+{
+
+"rentalcompany": [
+    {
+        "key": "CompanyID",
+        "type": "keyid"
+    }
+    
+    ,{
+        "key": "CompanyName",
+        "label": "CompanyName",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "CompanyRegistrationNo",
+        "label": "CompanyRegistrationNo",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+]
+}
